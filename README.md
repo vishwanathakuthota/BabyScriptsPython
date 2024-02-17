@@ -34,3 +34,8 @@ If you'd like to contribute to this project, feel free to create pull requests o
 
 ## License
 This project is licensed under the MIT License.
+
+
+## Enjoy!
+
+I hope these scripts help you learn and explore Python programming. If you have any questions or suggestions, feel free to create an issue or pull request on this repository.
